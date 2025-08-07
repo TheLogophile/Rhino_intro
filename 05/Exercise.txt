@@ -1,0 +1,2 @@
+Exercise No. 9
+Drawing Platonic and Archimedean solids using the commands we have learned
